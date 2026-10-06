@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+sentence-transformers
+joblib
+langchain-openai
+pydantic
+streamlit
+torch
+torchvision
