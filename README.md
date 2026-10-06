@@ -1,5 +1,3 @@
-# complaint-operations-intelligence
-=======
 # Complaint Operations Intelligence
 
 ## Overview
